@@ -1,5 +1,6 @@
 # Hi there!I'm Srivani  
-## 🔥 About Me
+--
+##  About Me
 🎓 Currently pursuing **BTech in Computer Science & Engineering (Data Science)**  
 🎯 Passionate about **full-stack web development, open-source contributions, and AI/ML projects**  
 💡 Always exploring new technologies, frameworks, and innovative ideas  
