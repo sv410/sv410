@@ -1,11 +1,4 @@
-# Hi there! 👋 I'm Srivani  
-
-🚀 **BTech CSE (Data Science) Student at Anurag University**  
-🌍 Open Source Contributor | Web Developer | AI & Data Science Enthusiast  
-🎨 UI/UX Designer | Hackathon Participant  
-
----
-
+# Hi there!I'm Srivani  
 ## 🔥 About Me
 🎓 Currently pursuing **BTech in Computer Science & Engineering (Data Science)**  
 🎯 Passionate about **full-stack web development, open-source contributions, and AI/ML projects**  
@@ -63,7 +56,6 @@
 ---
 
 ## 🚀 Projects  
-
 **🌐 Web Development**  
 - 🎨 3D Portfolio Website – Next.js, Three.js, Tailwind CSS  
 - 🎬 Netflix Clone – React, Redux, Firebase  
@@ -89,7 +81,34 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrivaniVinnakota&show_icons=true&theme=radical" alt="Srivani's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrivaniVinnakota&theme=radical" alt="Srivani's GitHub streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrivaniVinnakota&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SrivaniVinnakota&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote"/>
+</p>
+
+---
+
 ## 🌎 Let's Connect!  
 🔗 [Portfolio](https://srivanivinnakota.vercel.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/Srivanivinnakota4/)  
-📧 Email: srivanivinnakota91@.com  
+
