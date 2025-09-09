@@ -1,75 +1,95 @@
-#Hi there! 👋 I'm Srivani
+# Hi there! 👋 I'm Srivani  
 
-🚀 BTech CSE (Data Science) Student at Anurag University
-🌍 Open Source Contributor | Web Developer | AI & Data Science Enthusiast
-🎨 UI/UX Designer | Hackathon Participant
+🚀 **BTech CSE (Data Science) Student at Anurag University**  
+🌍 Open Source Contributor | Web Developer | AI & Data Science Enthusiast  
+🎨 UI/UX Designer | Hackathon Participant  
 
-🔥 About Me
-🎓 Currently pursuing BTech in Computer Science & Engineering (Data Science)
+---
 
-🎯 Passionate about full-stack web development, open-source contributions, and AI/ML projects
+## 🔥 About Me
+🎓 Currently pursuing **BTech in Computer Science & Engineering (Data Science)**  
+🎯 Passionate about **full-stack web development, open-source contributions, and AI/ML projects**  
+💡 Always exploring new technologies, frameworks, and innovative ideas  
+🎨 Skilled in **UI/UX design using Figma & Canva**  
 
-💡 Always exploring new technologies, frameworks, and innovative ideas
+---
 
-🎨 Skilled in UI/UX design using Figma & Canva
+## 💻 Tech Stack  
 
-💻 **Tech Stack**
+### 🖌️ Frontend  
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>  
+</p>
 
-### 🖌️ Frontend:
-- HTML, CSS, JavaScript
-- React.js, Tailwind CSS
-- Responsive Design Techniques
+### 🔧 Backend & Databases  
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>  
+</p>
 
-### 🔧 Backend & Databases:
-- Node.js, Next.js, Spring Boot
-- Firebase, SQL
-- RESTful API Integration
+### 💻 Programming Languages  
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>  
+</p>
 
-### 💻 Programming Languages:
-- C++, Python, Java, R
-- Natural Language Processing (NLP) using Python
-- TensorFlow for AI and Machine Learning
+### 🤖 AI & ML  
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>  
+</p>
 
-### 🛠️ Tools & Technologies:
-- D3.js (Data Visualization)
-- Canva, Adobe Creative Suite (for design)
-- Git, GitHub (Version Control)
-- Clerk, Redux-persist (State Management)
+### 🛠️ Tools & Design  
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40"/>  
+</p>
 
-🚀 Projects
-🌐 Web Development
-3D Portfolio Website – Built with Next.js, Three.js, Tailwind CSS
+---
 
-Netflix Clone – High-level UI design with React, Redux, and Firebase
+## 🚀 Projects  
 
-Restaurant Website – Advanced HTML, CSS, JS with a stunning UI
+**🌐 Web Development**  
+- 🎨 3D Portfolio Website – Next.js, Three.js, Tailwind CSS  
+- 🎬 Netflix Clone – React, Redux, Firebase  
+- 🍴 Restaurant Website – Advanced HTML, CSS, JS  
 
-📊 Data Science & AI
-Stock Price Prediction using ML – Predicting SBI stock prices with regression algorithms
+**📊 Data Science & AI**  
+- 📈 Stock Price Prediction (SBI) – Regression Models  
+- 🎥 YOLOv10 Object Tracking – Real-time video tracking with analysis  
+- 🤖 RAG Model – NLP-powered chatbot  
 
-YOLOv10 Object Tracking – Enhancing real-time video tracking with custom analysis
+**💡 Open Source Contributions**  
+- 🔹 ChaosWeb – Enhanced UI animations  
+- 🔹 ExplainableAI – Interpretability for ML models  
+- 🔹 PassOP – Security features for password manager  
 
-Retrieval-Augmented Generation (RAG) Model – Implementing an NLP-powered chatbot
+---
 
-💡 Open Source Contributions
-ChaosWeb – Enhancing UI with unique animations
+## 🎯 Achievements & Contributions  
+🏆 Hacktoberfest & GSSoC Contributor  
+📢 Speaker & Mentor at University Events  
+💼 Event Manager at GDSC Anurag University  
+🎨 Graphic Designer for IEEE Anurag Chapter  
 
-ExplainableAI – Improving interpretability for AI/ML models
+---
 
-PassOP – Adding security features to a React-based password manager
-
-🎯 Achievements & Contributions
-🏆 Hacktoberfest & GSSoC Contributor
-
-📢 Speaker & Mentor at University Events
-
-💼 Event Manager at GDSC Anurag University
-
-🎨 Graphic Designer for IEEE Anurag Chapter
-
-🌎 Let's Connect!
-
-my portfolio- 
-https://srivanivinnakota.vercel.app/
-my linkedin- https://www.linkedin.com/in/Srivanivinnakota4/
-
+## 🌎 Let's Connect!  
+🔗 [Portfolio](https://srivanivinnakota.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/Srivanivinnakota4/)  
+📧 Email: srivanivinnakota91@.com  
